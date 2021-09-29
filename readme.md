@@ -6,6 +6,11 @@ Formats: GTIN-8, GTIN-12, GTIN-13, GTIN-14, GSIN, SSCC
 > Validates GS1 key according to [GS1](https://www.gs1.org/services/how-calculate-check-digit-manually)
 
 ## Usage
+npm
+```
+npm i gs1-key
+```
+
 ```javascript
 var gs1 = require( 'gs1-key');
 
