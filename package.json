@@ -1,0 +1,24 @@
+{
+  "name": "gs1-key",
+  "version": "1.0.0",
+  "description": "GS1 key generation and validation.\r Formats: GTIN-8, GTIN-12, GTIN-13, GTIN-14, GSIN, SSCC",
+  "main": "index.js",
+  "dependencies": {
+    "tape": "^5.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jy-zheng/gs1-key.git"
+  },
+  "keywords": [],
+  "author": "Joe Zheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jy-zheng/gs1-key/issues"
+  },
+  "homepage": "https://github.com/jy-zheng/gs1-key#readme"
+}

@@ -18,7 +18,7 @@ console.log(gs1.create('01234567890'));
 //5
 
 // Valiadte
-console.log(gs1('012345678905'));
+console.log(gs1.validate('012345678905'));
 //true
 
 // Get format type
