@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/jy-zheng/gs1-key.git"
   },
-  "keywords": [],
+  "keywords": ["gs1", "upc", "checkdigit", "sscc", "gsin"],
   "author": "Joe Zheng",
   "license": "MIT",
   "bugs": {
